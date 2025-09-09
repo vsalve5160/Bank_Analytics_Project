@@ -30,3 +30,17 @@ SQL → Queries for KPI calculations and dataset exploration.
 
 ✔ Home ownership vs last payment date insights
 
+## Files in this Repository
+
+Raw datasets: <a href="https://github.com/vsalve5160/Bank_Analytics_Project/blob/main/Finance_1.xlsx">Finance1_Data</a>, 
+              <a href="https://github.com/vsalve5160/Bank_Analytics_Project/blob/main/Finance_2.xlsx">Finance2_Data</a>
+
+Excel dashboard: <a href="https://github.com/vsalve5160/Bank_Analytics_Project/blob/main/Excel_Dashboard.png">Excel_Dashboard</a>
+
+Tableau dashboard: <a href="https://github.com/vsalve5160/Bank_Analytics_Project/blob/main/Tableau_Dashboard.png">Tableau_Dashboard</a>
+
+Power BI dashboard: <a href="https://github.com/vsalve5160/Bank_Analytics_Project/blob/main/PowerBI_Dashboard.png">PowerBi_Dashboard</a>
+
+SQL queries:<a href="https://github.com/vsalve5160/Bank_Analytics_Project/blob/main/SQL_Queries.png">SQL_Queries</a>
+
+Project presentation: <a href="https://github.com/vsalve5160/Bank_Analytics_Project/blob/main/Bank_A_PPT.pptx">PPT</a>
